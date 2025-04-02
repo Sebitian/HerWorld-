@@ -68,16 +68,6 @@
       "source": "builtin",
       "testable": false
     },
-    "com.unity.render-pipelines.universal@17.0.4": {
-      "name": "com.unity.render-pipelines.universal",
-      "displayName": "Universal RP",
-      "resolvedPath": "/Users/Monzon/Desktop/HerWorld-/HerWorldMVP/Library/PackageCache/com.unity.render-pipelines.universal@d680fce5716f",
-      "fingerprint": "d680fce5716f8369152b159aee341ae849eb8ff5",
-      "editorCompatibility": "6000.0.0a1",
-      "version": "17.0.4",
-      "source": "builtin",
-      "testable": false
-    },
     "com.unity.test-framework@1.4.6": {
       "name": "com.unity.test-framework",
       "displayName": "Test Framework",
@@ -400,36 +390,6 @@
       "source": "registry",
       "testable": false
     },
-    "com.unity.render-pipelines.core@17.0.4": {
-      "name": "com.unity.render-pipelines.core",
-      "displayName": "Core RP Library",
-      "resolvedPath": "/Users/Monzon/Desktop/HerWorld-/HerWorldMVP/Library/PackageCache/com.unity.render-pipelines.core@2c53672ff4c2",
-      "fingerprint": "2c53672ff4c2bffa4a62150120fc5a6937be4b8f",
-      "editorCompatibility": "6000.0.0a1",
-      "version": "17.0.4",
-      "source": "builtin",
-      "testable": false
-    },
-    "com.unity.shadergraph@17.0.4": {
-      "name": "com.unity.shadergraph",
-      "displayName": "Shader Graph",
-      "resolvedPath": "/Users/Monzon/Desktop/HerWorld-/HerWorldMVP/Library/PackageCache/com.unity.shadergraph@0e6324a629e1",
-      "fingerprint": "0e6324a629e1e71e84251c105d902b9ba41196b0",
-      "editorCompatibility": "6000.0.0a1",
-      "version": "17.0.4",
-      "source": "builtin",
-      "testable": false
-    },
-    "com.unity.render-pipelines.universal-config@17.0.3": {
-      "name": "com.unity.render-pipelines.universal-config",
-      "displayName": "Universal RP Config",
-      "resolvedPath": "/Users/Monzon/Desktop/HerWorld-/HerWorldMVP/Library/PackageCache/com.unity.render-pipelines.universal-config@fa63c96d3e1a",
-      "fingerprint": "fa63c96d3e1af317d84d171cd6c0e0658ab159df",
-      "editorCompatibility": "6000.0.0a1",
-      "version": "17.0.3",
-      "source": "builtin",
-      "testable": false
-    },
     "com.unity.2d.animation@10.1.4": {
       "name": "com.unity.2d.animation",
       "displayName": "2D Animation",
@@ -510,23 +470,13 @@
       "source": "registry",
       "testable": false
     },
-    "com.unity.searcher@4.9.3": {
-      "name": "com.unity.searcher",
-      "displayName": "Searcher",
-      "resolvedPath": "/Users/Monzon/Desktop/HerWorld-/HerWorldMVP/Library/PackageCache/com.unity.searcher@1e17ce91558d",
-      "fingerprint": "1e17ce91558d1d9127554adc03d275f39a7466a2",
-      "editorCompatibility": "2019.1.0a1",
-      "version": "4.9.3",
-      "source": "registry",
-      "testable": false
-    },
-    "com.unity.burst@1.8.19": {
-      "name": "com.unity.burst",
-      "displayName": "Burst",
-      "resolvedPath": "/Users/Monzon/Desktop/HerWorld-/HerWorldMVP/Library/PackageCache/com.unity.burst@7a907cf5a459",
-      "fingerprint": "7a907cf5a4591e4e25f4203e3be84f240058c34d",
-      "editorCompatibility": "2020.3.0a1",
-      "version": "1.8.19",
+    "com.unity.2d.common@9.0.7": {
+      "name": "com.unity.2d.common",
+      "displayName": "2D Common",
+      "resolvedPath": "/Users/Monzon/Desktop/HerWorld-/HerWorldMVP/Library/PackageCache/com.unity.2d.common@bb1fc9b3d81b",
+      "fingerprint": "bb1fc9b3d81b3bb452c6708e8c088fe4224a0369",
+      "editorCompatibility": "2023.1.0a1",
+      "version": "9.0.7",
       "source": "registry",
       "testable": false
     },
@@ -550,23 +500,13 @@
       "source": "registry",
       "testable": false
     },
-    "com.unity.rendering.light-transport@1.0.1": {
-      "name": "com.unity.rendering.light-transport",
-      "displayName": "Unity Light Transport Library",
-      "resolvedPath": "/Users/Monzon/Desktop/HerWorld-/HerWorldMVP/Library/PackageCache/com.unity.rendering.light-transport@307bc27a498f",
-      "fingerprint": "307bc27a498fc9cd409bbd426c85d8dc7f140bc1",
-      "editorCompatibility": "2023.3.0b1",
-      "version": "1.0.1",
-      "source": "builtin",
-      "testable": false
-    },
-    "com.unity.2d.common@9.0.7": {
-      "name": "com.unity.2d.common",
-      "displayName": "2D Common",
-      "resolvedPath": "/Users/Monzon/Desktop/HerWorld-/HerWorldMVP/Library/PackageCache/com.unity.2d.common@bb1fc9b3d81b",
-      "fingerprint": "bb1fc9b3d81b3bb452c6708e8c088fe4224a0369",
-      "editorCompatibility": "2023.1.0a1",
-      "version": "9.0.7",
+    "com.unity.burst@1.8.19": {
+      "name": "com.unity.burst",
+      "displayName": "Burst",
+      "resolvedPath": "/Users/Monzon/Desktop/HerWorld-/HerWorldMVP/Library/PackageCache/com.unity.burst@7a907cf5a459",
+      "fingerprint": "7a907cf5a4591e4e25f4203e3be84f240058c34d",
+      "editorCompatibility": "2020.3.0a1",
+      "version": "1.8.19",
       "source": "registry",
       "testable": false
     },
